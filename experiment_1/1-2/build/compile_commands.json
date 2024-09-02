@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/Qtsoftware/experiment_1/1-2/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\experiment_1.dir\\1-2.cpp.obj -c E:\\Qtsoftware\\experiment_1\\1-2\\1-2.cpp",
+  "file": "E:/Qtsoftware/experiment_1/1-2/1-2.cpp",
+  "output": "CMakeFiles/experiment_1.dir/1-2.cpp.obj"
+}
+]

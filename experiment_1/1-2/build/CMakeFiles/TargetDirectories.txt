@@ -1,0 +1,3 @@
+E:/Qtsoftware/experiment_1/1-2/build/CMakeFiles/experiment_1.dir
+E:/Qtsoftware/experiment_1/1-2/build/CMakeFiles/edit_cache.dir
+E:/Qtsoftware/experiment_1/1-2/build/CMakeFiles/rebuild_cache.dir
